@@ -43,7 +43,7 @@
 [![Code](https://img.shields.io/badge/Code-FFFF00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/TU-USUARIO?tab=repositories)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1B6FBE?style=for-the-badge&logo=lighthouse&logoColor=white)](https://tuportafolio.com/)
 </p>
-<p>
+<p  align="justify">
 Payroll management system that handles salaries, <strong>tax deductions, benefits, and payments</strong>. It features user authentication, role-based access, and a <strong>dashboard</strong> for reports and payroll management.
 </p>
 </div>                                                                                      
@@ -58,7 +58,7 @@ Payroll management system that handles salaries, <strong>tax deductions, benefit
 [![Code](https://img.shields.io/badge/Code-FFFF00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/TU-USUARIO?tab=repositories)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1B6FBE?style=for-the-badge&logo=lighthouse&logoColor=white)](https://tuportafolio.com/)
 </p>
-<p>
+<p  align="justify">
 Tracks <strong>products</strong>, stock levels, and sales. Allows adding, updating, and removing inventory items, generating detailed reports, and managing supplier information for <strong>efficient stock</strong> control and <strong>accurate data management</strong>.
 </p>
 </div>
