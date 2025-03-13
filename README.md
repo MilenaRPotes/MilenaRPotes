@@ -43,7 +43,7 @@
 [![Code](https://img.shields.io/badge/Code-FFFF00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/TU-USUARIO?tab=repositories)
  [![Portfolio](https://img.shields.io/badge/Portfolio-1B6FBE?style=for-the-badge&logo=lighthouse&logoColor=white)](https://tuportafolio.com/)
 </p>
-<p>Functionality:
+<p>
 Payroll management system that handles salaries, tax deductions, benefits, and payments. It features user authentication, role-based access, and a dashboard for reports and payroll management.</p>
 </div>
                                                                                       
