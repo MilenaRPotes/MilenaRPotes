@@ -38,18 +38,13 @@
 <h3 align="center">💼 Payroll Management System with ASP.NET Core</h3>
 <div align="center">
 <a href="" target="_blank"><img src="" width="400" alt=" Payroll Management System "></a>
-<p>
-<a href="" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<p> 
   
+[![Code](https://img.shields.io/badge/Code-FFFF00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/TU-USUARIO?tab=repositories)
  [![Portfolio](https://img.shields.io/badge/Portfolio-1B6FBE?style=for-the-badge&logo=lighthouse&logoColor=white)](https://tuportafolio.com/)
- 
-</a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Functionality:
+Payroll management system that handles salaries, tax deductions, benefits, and payments. It features user authentication, role-based access, and a dashboard for reports and payroll management.</p>
 </div>
                                                                                       
 </td>
