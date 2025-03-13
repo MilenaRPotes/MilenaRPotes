@@ -35,7 +35,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">💼 Payroll Management System with ASP.NET Core</h3>
+<h3 align="center">💼 Payroll Management System with ASP.NETCore</h3>
 <div align="center">
 <a href="" target="_blank"><img src="" width="400" alt=" Payroll Management System "></a>
 <p> 
