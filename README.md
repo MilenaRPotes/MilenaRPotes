@@ -41,32 +41,31 @@
 <p> 
   
 [![Code](https://img.shields.io/badge/Code-FFFF00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/TU-USUARIO?tab=repositories)
- [![Portfolio](https://img.shields.io/badge/Portfolio-1B6FBE?style=for-the-badge&logo=lighthouse&logoColor=white)](https://tuportafolio.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1B6FBE?style=for-the-badge&logo=lighthouse&logoColor=white)](https://tuportafolio.com/)
 </p>
 <p>
 Payroll management system that handles salaries, <strong>tax deductions, benefits, and payments</strong>. It features user authentication, role-based access, and a <strong>dashboard</strong> for reports and payroll management.
 </p>
-</div>
-                                                                                      
+</div>                                                                                      
 </td>
 
 <td width="50%">
- <br>
 <h3 align="center">🛒 Inventory Management System with C#</h3>
 <div align="center">
 <a href="" target="_blank"><img src="" width="400" alt=" Inventory Management System "></a>
 <p> 
   
 [![Code](https://img.shields.io/badge/Code-FFFF00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/TU-USUARIO?tab=repositories)
- [![Portfolio](https://img.shields.io/badge/Portfolio-1B6FBE?style=for-the-badge&logo=lighthouse&logoColor=white)](https://tuportafolio.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1B6FBE?style=for-the-badge&logo=lighthouse&logoColor=white)](https://tuportafolio.com/)
 </p>
 <p>
 Tracks <strong>products</strong>, stock levels, and sales. Allows adding, updating, and removing inventory items, generating detailed reports, and managing supplier information for <strong>efficient stock</strong> control and <strong>accurate data management</strong>.
 </p>
 </div>
-                                                                              
-</table>                                                                                 
-</div>
+</td>
+</tr>
+</table>
+
 <br>
 
 ## &nbsp;GitHub Analytics ⚙️
