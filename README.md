@@ -34,7 +34,7 @@
 ## Projects 💡
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top" style="vertical-align:top;" >
 <h3 align="center">💼 Payroll Management System with ASP.NET Core</h3>
 <div align="center">
 <a href="" target="_blank"><img src="" width="400" alt=" Payroll Management System "></a>
@@ -49,7 +49,7 @@ Payroll management system that handles salaries, <strong>tax deductions, benefit
 </div>                                                                                      
 </td>
 
-<td width="50%">
+<td width="50%" valign="top" style="vertical-align:top;">
 <h3 align="center">🛒 Inventory Management System with C#</h3>
 <div align="center">
 <a href="" target="_blank"><img src="" width="400" alt=" Inventory Management System "></a>
