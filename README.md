@@ -51,20 +51,18 @@ Payroll management system that handles salaries, <strong>tax deductions, benefit
 </td>
 
 <td width="50%">
-               <br>
-<h3 align="center"></h3>
-<div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
-<br>
-<p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-</a>
+<h3 align="center">🛒 Inventory Management System with C#</h3>
+<div align="center">
+<a href="" target="_blank"><img src="" width="400" alt=" Inventory Management System "></a>
+<p> 
+  
+[![Code](https://img.shields.io/badge/Code-FFFF00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/TU-USUARIO?tab=repositories)
+ [![Portfolio](https://img.shields.io/badge/Portfolio-1B6FBE?style=for-the-badge&logo=lighthouse&logoColor=white)](https://tuportafolio.com/)
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
-</div>                                                             
+<p>
+Tracks <strong>products</strong>, stock levels, and sales. Allows adding, updating, and removing inventory items, generating detailed reports, and managing supplier information for <strong>efficient stock</strong> control and <strong>accurate data management</strong>.
+</p>
+</div>
+                                                                              
 </table>                                                                                 
 </div>
