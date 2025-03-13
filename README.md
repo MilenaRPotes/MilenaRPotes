@@ -8,7 +8,7 @@
 [![Instagram Dev](https://img.shields.io/badge/Instagram%20Dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/milenarpotesgamedev/?hl=es-es)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milenarpotes/)
 
-## About Me
+## About Me 🌟
 
 🚀 Software Developer | Unity Programmer | Digital Artist
 
