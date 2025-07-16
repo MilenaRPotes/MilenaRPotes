@@ -50,7 +50,7 @@ Payroll management system that handles salaries, <strong>tax deductions, benefit
       <img src="https://github.com/MilenaRPotes/MilenaRPotes/blob/main/Money%20Tracker%20V1.png" width="400" alt="Money Tracker App">
     </a>
     <p>
-      <a href="https://github.com/TU-USUARIO/MoneyTracker" target="_blank">
+      <a href= "https://github.com/MilenaRPotes/MoneyTracker" target="_blank">
         <img src="https://img.shields.io/badge/Code-FFFF00?style=for-the-badge&logo=github&logoColor=black" alt="Code">
       </a>
       <a href="https://tuportafolio.com/" target="_blank">
