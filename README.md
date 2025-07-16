@@ -47,7 +47,7 @@ Payroll management system that handles salaries, <strong>tax deductions, benefit
   <h3 align="center">📊 Money Tracker - Personal Finance App in WPF (v1)</h3>
   <div align="center">
     <a href="https://github.com/TU-USUARIO/MoneyTracker" target="_blank">
-      <img src="https://tuimagen.com/money-tracker.png" width="400" alt="Money Tracker App">
+      <img src="https://github.com/MilenaRPotes/MilenaRPotes/blob/main/Money%20Tracker%20V1.png" width="400" alt="Money Tracker App">
     </a>
     <p>
       <a href="https://github.com/TU-USUARIO/MoneyTracker" target="_blank">
