@@ -23,12 +23,6 @@
 - 2D & 3D Game Development
 - Gameplay Mechanics
 - Assembly of 2D and 3D Environments
-
-🎨 Digital Artist focused on creating captivating environments:
-
-- 3D Modeling and Texturing
-- 2D & 3D Environment Creation 
-- Concept Art of Worlds
 <br>
 
 ## Projects 💡
@@ -50,19 +44,28 @@ Payroll management system that handles salaries, <strong>tax deductions, benefit
 </td>
 
 <td width="50%" valign="top" style="vertical-align:top;">
-<h3 align="center">🛒 Inventory Management System with C#</h3>
-<div align="center">
-<a href="" target="_blank"><img src="" width="400" alt=" Inventory Management System "></a>
-<p> 
-  
-[![Code](https://img.shields.io/badge/Code-FFFF00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/TU-USUARIO?tab=repositories)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1B6FBE?style=for-the-badge&logo=lighthouse&logoColor=white)](https://tuportafolio.com/)
-</p>
-<p  align="justify">
-Tracks <strong>products</strong>, stock levels, and sales. Allows adding, updating, and removing inventory items, generating detailed reports, and managing supplier information for <strong>efficient stock</strong> control and <strong>accurate data management</strong>.
-</p>
-</div>
+  <h3 align="center">📊 Money Tracker - Personal Finance App in WPF (v1)</h3>
+  <div align="center">
+    <a href="https://github.com/TU-USUARIO/MoneyTracker" target="_blank">
+      <img src="https://tuimagen.com/money-tracker.png" width="400" alt="Money Tracker App">
+    </a>
+    <p>
+      <a href="https://github.com/TU-USUARIO/MoneyTracker" target="_blank">
+        <img src="https://img.shields.io/badge/Code-FFFF00?style=for-the-badge&logo=github&logoColor=black" alt="Code">
+      </a>
+      <a href="https://tuportafolio.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-1B6FBE?style=for-the-badge&logo=lighthouse&logoColor=white" alt="Portfolio">
+      </a>
+    </p>
+    <p align="justify">
+      <strong>Money Tracker</strong> is a personal finance management application built with <strong>WPF in C#</strong> using the <strong>MVVM</strong> architectural pattern. 
+    </p>
+    <p align="justify">
+      Designed to improve financial awareness and help users track their money with clarity and ease.
+    </p>
+  </div>
 </td>
+
 </tr>
 </table>
 
