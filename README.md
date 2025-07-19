@@ -10,7 +10,7 @@
 
 ## About Me 🌟
 
-🚀 Software Developer | Unity Programmer | Digital Artist
+🚀 Software Developer | Unity Programmer 
 
 💻 C# Developer specialized in building robust and scalable applications with:
 
