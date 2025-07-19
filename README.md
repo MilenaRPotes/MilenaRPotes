@@ -31,7 +31,7 @@
 <td width="50%" valign="top" style="vertical-align:top;" >
 <h3 align="center">🎯TranquilTurtle - Focus Blocker App in WPF</h3>
 <div align="center">
-<a href="" target="_blank"><img src=" https://github.com/MilenaRPotes/MilenaRPotes/blob/main/FocusImage.png" width="400" alt=" Payroll Management System "></a>
+<a href="https://github.com/MilenaRPotes" target="_blank"><img src="https://github.com/MilenaRPotes/MilenaRPotes/blob/main/FocusImage.png" width="400" alt="Focus Blocker App "></a>
 <p> 
   
 [![Code](https://img.shields.io/badge/Code-FFFF00?style=for-the-badge&logo=github&logoColor=black)]()
@@ -46,7 +46,7 @@ Focus timer app designed to help users block distractions and boost productivity
 <td width="50%" valign="top" style="vertical-align:top;">
   <h3 align="center">📊 Money Tracker - Personal Finance App in WPF (v1)</h3>
   <div align="center">
-    <a href="https://github.com/TU-USUARIO/MoneyTracker" target="_blank">
+    <a href="https://github.com/MilenaRPotes" target="_blank">
       <img src="https://github.com/MilenaRPotes/MilenaRPotes/blob/main/Money%20Tracker%20V1.png" width="400" alt="Money Tracker App">
     </a>
     <p>
