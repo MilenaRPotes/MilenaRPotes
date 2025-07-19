@@ -1,8 +1,8 @@
-
 <div align="center">
-<h1 align="center">Hi there I’m Milena </a> 👋</h1>
+  <h1 align="center">Hi there I’m Milena 👋</h1>
 </div>
-<img src="https://github.com/MilenaRPotes/MilenaRPotes/blob/main/BannerPortafolioV1.png">
+
+<img src="https://github.com/MilenaRPotes/MilenaRPotes/blob/main/BannerPortafolioV1.png" alt="Milena Portfolio Banner">
 
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://emilenarpotes.itch.io)
 [![Instagram Dev](https://img.shields.io/badge/Instagram%20Dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/milenarpotesgamedev/?hl=es-es)
@@ -13,44 +13,31 @@
 🚀 Software Developer | Unity Programmer 
 
 💻 C# Developer specialized in building robust and scalable applications with:
-
 - ASP.NET Core
 - REST APIs
 - Backend Development
 
 🎮 Unity Programmer creating immersive and interactive experiences for games:
-
 - 2D & 3D Game Development
 - Gameplay Mechanics
 - Assembly of 2D and 3D Environments
+
 <br>
 
 ## Projects 💡
+
 <table>
 <tr>
-<td width="50%" valign="top" style="vertical-align:top;" >
-<h3 align="center">🎯TranquilTurtle - Focus Blocker App in WPF</h3>
-<div align="center">
-<a href="https://github.com/MilenaRPotes" target="_blank"><img src="https://github.com/MilenaRPotes/MilenaRPotes/blob/main/FocusImage.png" width="400" alt="Focus Blocker App "></a>
-<p> 
-  
-[![Code](https://img.shields.io/badge/Code-FFFF00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/MilenaRPotes/TranquilTurtle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1B6FBE?style=for-the-badge&logo=lighthouse&logoColor=white)](https://tuportafolio.com/)
-</p>
-<p  align="justify">
-Focus timer app designed to help users block distractions and boost productivity. Uses a calming turtle mascot and countdown logic to encourage focused work sessions in a minimal and friendly interface.
-</p>
-</div>                                                                                      
-</td>
 
+<!-- TranquilTurtle -->
 <td width="50%" valign="top" style="vertical-align:top;">
-  <h3 align="center">📊 Money Tracker - Personal Finance App in WPF (v1)</h3>
+  <h3 align="center">🎯 TranquilTurtle - Focus Blocker App in WPF</h3>
   <div align="center">
-    <a href="https://github.com/MilenaRPotes" target="_blank">
-      <img src="https://github.com/MilenaRPotes/MilenaRPotes/blob/main/Money%20Tracker%20V1.png" width="400" alt="Money Tracker App">
+    <a href="https://github.com/MilenaRPotes/TranquilTurtle" target="_blank">
+      <img src="https://github.com/MilenaRPotes/MilenaRPotes/blob/main/FocusImage.png" width="400" height="250" alt="TranquilTurtle Preview">
     </a>
     <p>
-      <a href= "https://github.com/MilenaRPotes/MoneyTracker" target="_blank">
+      <a href="https://github.com/MilenaRPotes/TranquilTurtle" target="_blank">
         <img src="https://img.shields.io/badge/Code-FFFF00?style=for-the-badge&logo=github&logoColor=black" alt="Code">
       </a>
       <a href="https://tuportafolio.com/" target="_blank">
@@ -58,7 +45,29 @@ Focus timer app designed to help users block distractions and boost productivity
       </a>
     </p>
     <p align="justify">
-      <strong>Money Tracker</strong> is a personal finance management application built with <strong>WPF in C#</strong> using the <strong>MVVM</strong> architectural pattern. 
+      Focus timer app designed to help users block distractions and boost productivity.  
+      Uses a calming turtle mascot and countdown logic to encourage focused work sessions in a minimal and friendly interface.
+    </p>
+  </div>
+</td>
+
+<!-- Money Tracker -->
+<td width="50%" valign="top" style="vertical-align:top;">
+  <h3 align="center">📊 Money Tracker - Personal Finance App in WPF (v1)</h3>
+  <div align="center">
+    <a href="https://github.com/MilenaRPotes/MoneyTracker" target="_blank">
+      <img src="https://github.com/MilenaRPotes/MilenaRPotes/blob/main/Money%20Tracker%20V1.png" width="400" height="250" alt="Money Tracker App">
+    </a>
+    <p>
+      <a href="https://github.com/MilenaRPotes/MoneyTracker" target="_blank">
+        <img src="https://img.shields.io/badge/Code-FFFF00?style=for-the-badge&logo=github&logoColor=black" alt="Code">
+      </a>
+      <a href="https://tuportafolio.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-1B6FBE?style=for-the-badge&logo=lighthouse&logoColor=white" alt="Portfolio">
+      </a>
+    </p>
+    <p align="justify">
+      <strong>Money Tracker</strong> is a personal finance management application built with <strong>WPF in C#</strong> using the <strong>MVVM</strong> architectural pattern.
     </p>
     <p align="justify">
       Designed to improve financial awareness and help users track their money with clarity and ease.
@@ -70,6 +79,7 @@ Focus timer app designed to help users block distractions and boost productivity
 </table>
 
 <br>
+
 
 ## &nbsp;GitHub Analytics ⚙️
 
