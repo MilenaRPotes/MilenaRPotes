@@ -34,7 +34,7 @@
 <a href="https://github.com/MilenaRPotes" target="_blank"><img src="https://github.com/MilenaRPotes/MilenaRPotes/blob/main/FocusImage.png" width="400" alt="Focus Blocker App "></a>
 <p> 
   
-[![Code](https://img.shields.io/badge/Code-FFFF00?style=for-the-badge&logo=github&logoColor=black)]()
+[![Code](https://img.shields.io/badge/Code-FFFF00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/MilenaRPotes/TranquilTurtle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1B6FBE?style=for-the-badge&logo=lighthouse&logoColor=white)](https://tuportafolio.com/)
 </p>
 <p  align="justify">
