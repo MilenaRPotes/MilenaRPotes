@@ -28,11 +28,10 @@
 
 <table>
 <tr>
-
 <!-- TranquilTurtle -->
 <td width="50%" valign="top" style="vertical-align:top;">
   <h3 align="center">🎯 TranquilTurtle - Focus Blocker App in WPF</h3>
-  <div align="center">
+  <div align="center"> <br>
     <a href="https://github.com/MilenaRPotes/TranquilTurtle" target="_blank">
       <img src="https://github.com/MilenaRPotes/MilenaRPotes/blob/main/FocusImage.png" width="400" height="250" alt="TranquilTurtle Preview">
     </a>
@@ -68,13 +67,10 @@
     </p>
     <p align="justify">
       <strong>Money Tracker</strong> is a personal finance management application built with <strong>WPF in C#</strong> using the <strong>MVVM</strong> architectural pattern.
-    </p>
-    <p align="justify">
       Designed to improve financial awareness and help users track their money with clarity and ease.
     </p>
   </div>
 </td>
-
 </tr>
 </table>
 
