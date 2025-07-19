@@ -31,10 +31,10 @@
 <td width="50%" valign="top" style="vertical-align:top;" >
 <h3 align="center">🎯TranquilTurtle - Focus Blocker App in WPF</h3>
 <div align="center">
-<a href="" target="_blank"><img src="" width="400" alt=" Payroll Management System "></a>
+<a href="https://github.com/MilenaRPotes/MilenaRPotes/blob/main/FocusImage.png" target="_blank"><img src="" width="400" alt=" Payroll Management System "></a>
 <p> 
   
-[![Code](https://img.shields.io/badge/Code-FFFF00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/TU-USUARIO?tab=repositories)
+[![Code](https://img.shields.io/badge/Code-FFFF00?style=for-the-badge&logo=github&logoColor=black)]()
 [![Portfolio](https://img.shields.io/badge/Portfolio-1B6FBE?style=for-the-badge&logo=lighthouse&logoColor=white)](https://tuportafolio.com/)
 </p>
 <p  align="justify">
