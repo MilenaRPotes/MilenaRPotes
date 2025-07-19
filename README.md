@@ -29,7 +29,7 @@
 <table>
 <tr>
 <td width="50%" valign="top" style="vertical-align:top;" >
-<h3 align="center">💼 Payroll Management System with ASP.NET Core</h3>
+<h3 align="center">🎯TranquilTurtle - Focus Blocker App in WPF</h3>
 <div align="center">
 <a href="" target="_blank"><img src="" width="400" alt=" Payroll Management System "></a>
 <p> 
@@ -38,7 +38,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-1B6FBE?style=for-the-badge&logo=lighthouse&logoColor=white)](https://tuportafolio.com/)
 </p>
 <p  align="justify">
-Payroll management system that handles salaries, <strong>tax deductions, benefits, and payments</strong>. It features user authentication, role-based access, and a <strong>dashboard</strong> for reports and payroll management.
+Focus timer app designed to help users block distractions and boost productivity. Uses a calming turtle mascot and countdown logic to encourage focused work sessions in a minimal and friendly interface.
 </p>
 </div>                                                                                      
 </td>
