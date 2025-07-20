@@ -2,7 +2,7 @@
   <h1 align="center">Hi there I’m Milena 👋</h1>
 </div>
 
-<img src="https://github.com/MilenaRPotes/MilenaRPotes/blob/main/BannerPortafolioV1.png" alt="Milena Portfolio Banner">
+<img src="https://github.com/MilenaRPotes/MilenaRPotes/blob/main/BannerPortafolioV2.png" alt="Milena Portfolio Banner">
 
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://emilenarpotes.itch.io)
 [![Instagram Dev](https://img.shields.io/badge/Instagram%20Dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/milenarpotesgamedev/?hl=es-es)
