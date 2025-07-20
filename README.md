@@ -11,7 +11,6 @@
 ## About Me 🌟
 
 🚀 Software Developer | Unity Programmer 
-
 💻 C# Developer specialized in building robust and scalable applications with:
 - ⚙️ WPF / WinForms / .NET MAUI – Desktop UI with MVVM pattern
 - 🌐 ASP.NET Core & REST APIs – Backend services and data processing
