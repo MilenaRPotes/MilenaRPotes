@@ -24,8 +24,7 @@
 - 2D & 3D Game Development
 - Gameplay Mechanics
 - Assembly of 2D and 3D Environments
-
-<br>
+---
 
 ## Projects 💡
 
