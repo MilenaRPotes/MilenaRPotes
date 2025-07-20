@@ -76,8 +76,6 @@
 </tr>
 </table>
 
-<br>
-
 ---
 ## &nbsp;GitHub Analytics ⚙️
 
