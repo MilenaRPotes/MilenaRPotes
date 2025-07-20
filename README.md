@@ -13,9 +13,13 @@
 🚀 Software Developer | Unity Programmer 
 
 💻 C# Developer specialized in building robust and scalable applications with:
-- ASP.NET Core
-- REST APIs
-- Backend Development
+- ⚙️ WPF / WinForms / .NET MAUI – Desktop UI with MVVM pattern
+- 🌐 ASP.NET Core & REST APIs – Backend services and data processing
+- 💾 Entity Framework & SQLite – Reliable data persistence
+- 🧪 MVP & MVVM Architecture – Clean code organization and testable logic
+- 📦 NuGet & GitHub Packages – Package management and modularization
+- 🔐 Authentication & App Locking – App-level security and session control
+- 🧠 Problem-Solving Mindset – Focused on performance and user experience
 
 🎮 Unity Programmer creating immersive and interactive experiences for games:
 - 2D & 3D Game Development
