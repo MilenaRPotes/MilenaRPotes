@@ -41,7 +41,7 @@
       <a href="https://github.com/MilenaRPotes/TranquilTurtle" target="_blank">
         <img src="https://img.shields.io/badge/Code-FFFF00?style=for-the-badge&logo=github&logoColor=black" alt="Code">
       </a>
-      <a href="http://127.0.0.1:5500/pages/programacionP1.html" target="_blank">
+      <a href="https://portafoliomilenarpotes.netlify.app/pages/programacionp1" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-1B6FBE?style=for-the-badge&logo=lighthouse&logoColor=white" alt="Portfolio">
       </a>
     </p>
@@ -63,7 +63,7 @@
       <a href="https://github.com/MilenaRPotes/MoneyTracker" target="_blank">
         <img src="https://img.shields.io/badge/Code-FFFF00?style=for-the-badge&logo=github&logoColor=black" alt="Code">
       </a>
-      <a href="http://127.0.0.1:5500/pages/programacionP2.html" target="_blank">
+      <a href="https://portafoliomilenarpotes.netlify.app/pages/programacionp2" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-1B6FBE?style=for-the-badge&logo=lighthouse&logoColor=white" alt="Portfolio">
       </a>
     </p>
