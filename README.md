@@ -1,6 +1,5 @@
 <div align="center">
   <h1 align="center">Hi there I’m Milena 👋</h1>
-  <img src="https://github.com/MilenaRPotes/MilenaRPotes/blob/main/developer.gif" width="100" alt="Checkmark Animation">
 </div>
 
 <img src="https://github.com/MilenaRPotes/MilenaRPotes/blob/main/BannerPortafolioV2.png" alt="Milena Portfolio Banner">
