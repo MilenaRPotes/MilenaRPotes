@@ -11,7 +11,11 @@
 
 ## About Me 🌟
 
-🚀 Software Developer | Unity Programmer 
+<table>
+<tr>
+<td width="70%" valign="top">
+
+🚀 Software Developer | Unity Programmer <br>
 💻 C# Developer specialized in building robust and scalable applications with:
 - ⚙️ WPF / WinForms / .NET MAUI – Desktop UI with MVVM pattern
 - 🌐 ASP.NET Core & REST APIs – Backend services and data processing
@@ -25,6 +29,13 @@
 - 2D & 3D Game Development
 - Gameplay Mechanics
 - Assembly of 2D and 3D Environments
+
+</td>
+<td width="30%" valign="center" align="center">
+  <img src="https://github.com/MilenaRPotes/MilenaRPotes/blob/main/developer.gif?raw=true" width="100%" alt="Developer Animation">
+</td>
+</tr>
+</table>
 ---
 
 ## Projects 💡
