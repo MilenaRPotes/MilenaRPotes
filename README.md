@@ -32,7 +32,7 @@
       </ul>
     </td>
     <td valign="center" align="center">
-      <img src="https://github.com/MilenaRPotes/MilenaRPotes/blob/main/developer.gif?raw=true" width="400" alt="Developer Animation">
+      <img src="https://github.com/MilenaRPotes/MilenaRPotes/blob/main/developer.gif?raw=true" width="300" alt="Developer Animation">
     </td>
   </tr>
 </table>
