@@ -12,7 +12,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="100%">
       🚀 Software Developer | Unity Programmer <br>
       💻 C# Developer specialized in building robust and scalable applications with:
       <ul>
