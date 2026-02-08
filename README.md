@@ -30,7 +30,7 @@
 - Assembly of 2D and 3D Environments
 
 </td>
-<td width="30%" valign="center" align="center">
+<td width="60%" valign="center" align="center">
   <img src="https://github.com/MilenaRPotes/MilenaRPotes/blob/main/developer.gif?raw=true" width="100%" alt="Developer Animation">
 </td>
 </tr>
